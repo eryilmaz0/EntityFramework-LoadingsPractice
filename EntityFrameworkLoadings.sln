@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{513F066F-4BC0-4091-AF73-9D36F48B505F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkLoadings.API", "src\EntityFrameworkLoadings.API\EntityFrameworkLoadings.API.csproj", "{84AE49B8-15A4-4594-82E7-167FC43742C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{84AE49B8-15A4-4594-82E7-167FC43742C1} = {513F066F-4BC0-4091-AF73-9D36F48B505F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AE49B8-15A4-4594-82E7-167FC43742C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AE49B8-15A4-4594-82E7-167FC43742C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AE49B8-15A4-4594-82E7-167FC43742C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AE49B8-15A4-4594-82E7-167FC43742C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
